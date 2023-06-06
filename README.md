@@ -19,8 +19,10 @@
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
+* [Programming Erlang](https://www.oreilly.com/library/view/programming-erlang-2nd/9781941222454/)
+* [Erlang Standard Library Reference Manual](https://www.erlang.org/doc/apps/stdlib/index.html)
+* [Erlang by Example](https://erlangbyexample.org/)
 
 # Future Work
 
