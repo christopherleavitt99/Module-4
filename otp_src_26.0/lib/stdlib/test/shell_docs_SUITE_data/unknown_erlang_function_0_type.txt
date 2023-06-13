@@ -1,4 +1,0 @@
-
-  [;1m-type function() :: fun().[0m
-
-  An Erlang fun.

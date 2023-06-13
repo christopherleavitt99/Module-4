@@ -1,4 +1,0 @@
-
-  [;1m-type pid() :: pid().[0m
-
-  An Erlang process identifier.

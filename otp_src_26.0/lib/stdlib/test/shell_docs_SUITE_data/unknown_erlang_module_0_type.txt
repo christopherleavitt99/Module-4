@@ -1,4 +1,0 @@
-
-  [;1m-type module() :: atom().[0m
-
-  An Erlang module represented by an atom.

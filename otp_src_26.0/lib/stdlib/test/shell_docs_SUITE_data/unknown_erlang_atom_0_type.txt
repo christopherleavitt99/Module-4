@@ -1,4 +1,0 @@
-
-  [;1m-type atom() :: atom().[0m
-
-  An Erlang atom.

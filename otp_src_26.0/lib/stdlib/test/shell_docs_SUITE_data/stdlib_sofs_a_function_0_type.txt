@@ -1,4 +1,0 @@
-
-  [;1m-type a_function() :: relation().[0m
-
-  A function.

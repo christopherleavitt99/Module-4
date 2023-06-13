@@ -1,4 +1,0 @@
-
-  [;1m-type nil() :: [].[0m
-
-  The empty list().

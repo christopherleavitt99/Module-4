@@ -1,4 +1,0 @@
-
-  [;1m-opaque a_set() [0m
-
-  An unordered set.

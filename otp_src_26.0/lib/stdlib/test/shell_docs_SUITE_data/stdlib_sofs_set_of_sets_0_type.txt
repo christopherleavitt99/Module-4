@@ -1,4 +1,0 @@
-
-  [;1m-type set_of_sets() :: a_set().[0m
-
-  An unordered set of unordered sets.

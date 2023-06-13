@@ -1,4 +1,0 @@
-
-  [;1m-type tuple() :: tuple().[0m
-
-  An Erlang tuple.
