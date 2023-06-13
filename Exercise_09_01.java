@@ -1,4 +1,4 @@
-public class 9dot1 {
+public class Exercise_09_01 {
     /** Main method */
 	public static void main(String[] args) {
 		// Create a Rectangle with width 4 and height 40
