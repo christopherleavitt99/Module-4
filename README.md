@@ -2,7 +2,7 @@
 
 {Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-{Provide a description for the software that you wrote to demonstrate the Erlang language.}
+{Provide a description for the software that you wrote to demonstrate the Java language.}
 
 {Describe your purpose for writing this software.}
 
@@ -19,10 +19,8 @@
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
-* [Programming Erlang](https://www.oreilly.com/library/view/programming-erlang-2nd/9781941222454/)
-* [Erlang Standard Library Reference Manual](https://www.erlang.org/doc/apps/stdlib/index.html)
-* [Erlang by Example](https://erlangbyexample.org/)
+* [Introduction to Programming, Brief Version on VitalSource](https://online.vitalsource.com/reader/books/9780134671727/epubcfi/6/22[%3Bvnd.vst.idref%3DP70010138680000000000000000004A2]!/4/2[P70010138680000000000000000004A2]/4[P70010138680000000000000000004A5]/2[P70010138680000000000000000004A6]/4[P700101386800000000000000000CEC6]/18[P70010138680000000000000000004B9]/2[P700101386800000000000000000CECF]/3:0[%2C^).])
+
 
 # Future Work
 
